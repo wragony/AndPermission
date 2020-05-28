@@ -24,7 +24,6 @@ import android.os.Build;
 import android.provider.Settings;
 
 import android.support.annotation.RequiresApi;
-
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
